@@ -1,0 +1,475 @@
+[
+  {
+    "class_name": "Apple___Apple_scab",
+    "plant": "Apple",
+    "status": "sick",
+    "symptoms": [
+      "Olive-green spots on leaves",
+      "Scabby lesions on fruit",
+      "Early leaf drop"
+    ],
+    "recommendations": [
+      "Apply fungicides early in the season",
+      "Prune for better air circulation",
+      "Remove fallen leaves"
+    ]
+  },
+  {
+    "class_name": "Apple___Black_rot",
+    "plant": "Apple",
+    "status": "sick",
+    "symptoms": [
+      "Circular black lesions on leaves",
+      "Fruit rot with concentric rings",
+      "Branch cankers"
+    ],
+    "recommendations": [
+      "Remove infected plant parts",
+      "Use fungicides",
+      "Clean up fallen fruit"
+    ]
+  },
+  {
+    "class_name": "Apple___Cedar_apple_rust",
+    "plant": "Apple",
+    "status": "sick",
+    "symptoms": [
+      "Bright orange spots on leaves",
+      "Spiky galls on nearby cedar trees",
+      "Leaf drop"
+    ],
+    "recommendations": [
+      "Remove nearby cedar trees",
+      "Use resistant varieties",
+      "Apply fungicides at bud break"
+    ]
+  },
+  {
+    "class_name": "Apple___healthy",
+    "plant": "Apple",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Blueberry___healthy",
+    "plant": "Blueberry",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Cherry_(including_sour)___Powdery_mildew",
+    "plant": "Cherry",
+    "status": "sick",
+    "symptoms": [
+      "White powdery spots on leaves",
+      "Leaf curling",
+      "Reduced fruit quality"
+    ],
+    "recommendations": [
+      "Apply sulfur-based fungicide",
+      "Improve air circulation",
+      "Avoid overhead watering"
+    ]
+  },
+  {
+    "class_name": "Cherry_(including_sour)___healthy",
+    "plant": "Cherry",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "plant": "Corn",
+    "status": "sick",
+    "symptoms": [
+      "Elongated gray or tan lesions",
+      "Yellowing between veins",
+      "Reduced yield"
+    ],
+    "recommendations": [
+      "Rotate crops",
+      "Use resistant hybrids",
+      "Apply fungicides at early stage"
+    ]
+  },
+  {
+    "class_name": "Corn_(maize)___Common_rust_",
+    "plant": "Corn",
+    "status": "sick",
+    "symptoms": [
+      "Reddish-brown pustules on leaves",
+      "Leaf yellowing",
+      "Lower productivity"
+    ],
+    "recommendations": [
+      "Use resistant varieties",
+      "Apply fungicides during early infection"
+    ]
+  },
+  {
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "plant": "Corn",
+    "status": "sick",
+    "symptoms": [
+      "Cigar-shaped tan lesions",
+      "Lesions parallel to leaf veins",
+      "Premature leaf death"
+    ],
+    "recommendations": [
+      "Rotate crops",
+      "Apply fungicides",
+      "Use resistant hybrids"
+    ]
+  },
+  {
+    "class_name": "Corn_(maize)___healthy",
+    "plant": "Corn",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Grape___Black_rot",
+    "plant": "Grape",
+    "status": "sick",
+    "symptoms": [
+      "Small black spots on leaves",
+      "Mummified fruit",
+      "Circular lesions on shoots"
+    ],
+    "recommendations": [
+      "Remove infected berries",
+      "Apply fungicides during flowering",
+      "Practice good sanitation"
+    ]
+  },
+  {
+    "class_name": "Grape___Esca_(Black_Measles)",
+    "plant": "Grape",
+    "status": "sick",
+    "symptoms": [
+      "Tiger-striped leaf patterns",
+      "Fruit shriveling",
+      "Black streaks in wood"
+    ],
+    "recommendations": [
+      "Avoid pruning during wet conditions",
+      "Remove infected vines",
+      "Improve drainage"
+    ]
+  },
+  {
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "plant": "Grape",
+    "status": "sick",
+    "symptoms": [
+      "Angular brown lesions",
+      "Leaf yellowing and drop",
+      "Blighting of leaf edges"
+    ],
+    "recommendations": [
+      "Apply protective fungicides",
+      "Ensure proper air flow",
+      "Remove infected leaves"
+    ]
+  },
+  {
+    "class_name": "Grape___healthy",
+    "plant": "Grape",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "plant": "Orange",
+    "status": "sick",
+    "symptoms": [
+      "Yellow mottling of leaves",
+      "Lopsided, bitter fruit",
+      "Twig dieback"
+    ],
+    "recommendations": [
+      "Remove infected trees",
+      "Control psyllid vectors",
+      "Use certified disease-free plants"
+    ]
+  },
+  {
+    "class_name": "Peach___Bacterial_spot",
+    "plant": "Peach",
+    "status": "sick",
+    "symptoms": [
+      "Dark lesions on leaves and fruit",
+      "Leaf tearing",
+      "Premature leaf drop"
+    ],
+    "recommendations": [
+      "Use copper-based sprays",
+      "Remove infected twigs",
+      "Avoid overhead irrigation"
+    ]
+  },
+  {
+    "class_name": "Peach___healthy",
+    "plant": "Peach",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Pepper,_bell___Bacterial_spot",
+    "plant": "Pepper",
+    "status": "sick",
+    "symptoms": [
+      "Water-soaked leaf spots",
+      "Raised scabby fruit lesions",
+      "Defoliation in severe cases"
+    ],
+    "recommendations": [
+      "Use disease-free seeds",
+      "Apply copper fungicides",
+      "Rotate crops"
+    ]
+  },
+  {
+    "class_name": "Pepper,_bell___healthy",
+    "plant": "Pepper",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Potato___Early_blight",
+    "plant": "Potato",
+    "status": "sick",
+    "symptoms": [
+      "Dark concentric spots on lower leaves",
+      "Yellowing of leaf edges",
+      "Defoliation"
+    ],
+    "recommendations": [
+      "Apply chlorothalonil or mancozeb",
+      "Destroy crop residue",
+      "Ensure proper spacing"
+    ]
+  },
+  {
+    "class_name": "Potato___Late_blight",
+    "plant": "Potato",
+    "status": "sick",
+    "symptoms": [
+      "Water-soaked lesions",
+      "White mold under leaf",
+      "Rapid collapse of plant"
+    ],
+    "recommendations": [
+      "Apply systemic fungicides",
+      "Remove infected plants",
+      "Avoid wet foliage"
+    ]
+  },
+  {
+    "class_name": "Potato___healthy",
+    "plant": "Potato",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Raspberry___healthy",
+    "plant": "Raspberry",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Soybean___healthy",
+    "plant": "Soybean",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Squash___Powdery_mildew",
+    "plant": "Squash",
+    "status": "sick",
+    "symptoms": [
+      "White powdery spots on both leaf surfaces",
+      "Leaf curling",
+      "Reduced fruit set"
+    ],
+    "recommendations": [
+      "Apply sulfur or potassium bicarbonate",
+      "Water at base",
+      "Ensure good air flow"
+    ]
+  },
+  {
+    "class_name": "Strawberry___Leaf_scorch",
+    "plant": "Strawberry",
+    "status": "sick",
+    "symptoms": [
+      "Purple spots on leaves",
+      "Leaf browning and curling",
+      "Stunted growth"
+    ],
+    "recommendations": [
+      "Avoid overhead irrigation",
+      "Apply fungicides",
+      "Remove infected debris"
+    ]
+  },
+  {
+    "class_name": "Strawberry___healthy",
+    "plant": "Strawberry",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  },
+  {
+    "class_name": "Tomato___Bacterial_spot",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Small dark spots with yellow halos",
+      "Cracked fruit",
+      "Wilting under high heat"
+    ],
+    "recommendations": [
+      "Use copper-based sprays",
+      "Avoid working with wet plants",
+      "Destroy infected debris"
+    ]
+  },
+  {
+    "class_name": "Tomato___Early_blight",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Target-like spots on older leaves",
+      "Yellowing",
+      "Leaf drop from bottom upward"
+    ],
+    "recommendations": [
+      "Use chlorothalonil or mancozeb",
+      "Crop rotation",
+      "Remove lower leaves"
+    ]
+  },
+  {
+    "class_name": "Tomato___Late_blight",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Dark water-soaked spots",
+      "White mold under leaves",
+      "Entire plant collapse"
+    ],
+    "recommendations": [
+      "Remove infected plants",
+      "Apply fungicide",
+      "Improve ventilation"
+    ]
+  },
+  {
+    "class_name": "Tomato___Leaf_Mold",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Yellow patches on upper leaf",
+      "Olive mold underneath",
+      "Leaf curling"
+    ],
+    "recommendations": [
+      "Improve air circulation",
+      "Apply protective fungicide",
+      "Reduce humidity"
+    ]
+  },
+  {
+    "class_name": "Tomato___Septoria_leaf_spot",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Circular spots with gray center",
+      "Rapid yellowing",
+      "Leaf drop"
+    ],
+    "recommendations": [
+      "Use drip irrigation",
+      "Apply fungicides",
+      "Remove infected leaves"
+    ]
+  },
+  {
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Tiny speckled spots",
+      "Fine webbing",
+      "Leaf bronzing"
+    ],
+    "recommendations": [
+      "Spray with miticide",
+      "Increase humidity",
+      "Use insecticidal soap"
+    ]
+  },
+  {
+    "class_name": "Tomato___Target_Spot",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Brown spots with concentric rings",
+      "Yellow margins",
+      "Lesions on stems"
+    ],
+    "recommendations": [
+      "Use disease-free transplants",
+      "Apply fungicide",
+      "Avoid leaf wetness"
+    ]
+  },
+  {
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Upward leaf curling",
+      "Yellowing",
+      "Stunted growth"
+    ],
+    "recommendations": [
+      "Control whiteflies",
+      "Remove infected plants",
+      "Use resistant varieties"
+    ]
+  },
+  {
+    "class_name": "Tomato___Tomato_mosaic_virus",
+    "plant": "Tomato",
+    "status": "sick",
+    "symptoms": [
+      "Mosaic leaf pattern",
+      "Leaf distortion",
+      "Delayed fruiting"
+    ],
+    "recommendations": [
+      "Disinfect tools",
+      "Use certified seeds",
+      "Remove infected plants"
+    ]
+  },
+  {
+    "class_name": "Tomato___healthy",
+    "plant": "Tomato",
+    "status": "healthy",
+    "symptoms": null,
+    "recommendations": null
+  }
+]
