@@ -73,7 +73,7 @@ async def predict(file: UploadFile = File(...)):
         # Add metadata
         metadata = class_metadata_map.get(predicted_class, {})
         response = {
-            "predicted_class": predicted_class,
+            "className": predicted_class,
             "confidence": round(confidence, 4),
             "plant": metadata.get("plant"),
             "status": metadata.get("status"),
